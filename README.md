@@ -1,20 +1,64 @@
-# 👨🏾‍💻 Luís Miguel Bernardo
-**´ Data Analyst**
+# 👨🏾‍💻 Luís Bernardo
+**Data Analyst**
 
-Sou Luís Miguel Bernardo, natural de Luanda (Angola), formado em Ciências Políticas e Sociologia e atualmente curso pós-graduação em Relações Internacionais na UNILA. Minha trajetória acadêmica é marcada pelo interesse em questões sociais e políticas, com atuação prática na promoção da inclusão por meio de um estágio na SECAFE, onde trabalho com acessibilidade para estudantes com deficiência. Destaco a importância da empatia, da comunicação e do uso de soluções tecnológicas como ferramentas fundamentais para construir uma sociedade mais justa e igualitária. 
+Sou Luís Miguel Bernardo, natural de Luanda, Angola. Destaco a importância da empatia, da comunicação e do uso de soluções tecnológicas como ferramentas fundamentais para construir uma sociedade mais justa e igualitária. 
 
-  </a>
+  <p align="left">
     <a href="https://github.com/luismiguelbernardo/LuisBerna">
         <img 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LuisBerna?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            title="GitHub Star" 
+            src="https://custom-icon-badges.demolab.com/github/stars/LuisBerna?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Star"
         />
     </a>
     <a href="https://github.com/luismiguelbernardo/LuisBerna">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Luisberna?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Follow" 
+            title="GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/LuisBerna?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"  
         />
     </a>
+</p>
+
+---
+
+### 🤖 Languages and Technologies 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<br/>
+<br/>
+
+ ### 📊 Statistics  
+
+ 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=luismiguelbernardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismiguelbernardo&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  />
+
 </p>
